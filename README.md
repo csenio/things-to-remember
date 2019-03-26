@@ -7,7 +7,7 @@ imr -> import react
 redux -> import connect from redux
 ```
 
-### setting up themeProvder from react storybook with storybook
+### setting up themeProvider from react storybook with storybook
 ```
 import React from "react";
 import { ThemeProvider } from 'styled-components';
